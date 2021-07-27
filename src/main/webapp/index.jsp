@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome this is new integration</h2>
+<h2>This is second committed jenkins tomcat integration</h2>
 </body>
 </html>
